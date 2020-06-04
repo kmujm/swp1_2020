@@ -1,3 +1,3 @@
 20203074 Parkjm
-Kookmin Univ. SW(CS)
+Kookmin Univ. SW
 Hi~
