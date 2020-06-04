@@ -1,3 +1,3 @@
-20203074	 Park jungmin
+20203074	Park jungmin
 Kookmin Univ. SW
 Hi~
