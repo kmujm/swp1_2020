@@ -31,7 +31,7 @@ def application(environ, start_response):
        
 	sum=0
 	multiply=0
-	if '' not in [a, b]:
+	if a.isdigit() and b.isdigit():
                 a, b = int(a), int(b)
                 sum=str(a+b)
                 multiply=str(a*b)
