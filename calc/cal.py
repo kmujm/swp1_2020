@@ -35,7 +35,9 @@ def application(environ, start_response):
                 a, b = int(a), int(b)
                 sum=str(a+b)
                 multiply=str(a*b)
-
+	else:
+		sum="None"
+		multiply="None"	
         response_body=html%{
                 'sum':sum,
                 'multiply':multiply,
